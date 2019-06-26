@@ -1,4 +1,4 @@
-/*Program to try out bubble sorting on myself. AUTHOR: rapteon; EMAIL: surajnaranatt@gmail.com*/
+/*Program to try out bubble sorting on myself. AUTHOR: rapteon; DATE: 2019-06-26*/
 
 #include<stdio.h>
 

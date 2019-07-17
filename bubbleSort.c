@@ -28,7 +28,7 @@ void main(){
 
 
 //So here's how it works...
-	/*The condition inside the whiel loop is a constant number, which always means true.
+	/*The condition inside the while loop is a constant number, which always means true.
 	As a result, the while loop runs.
 	
 	Inside the loop, the value of swapped is set to 0.
